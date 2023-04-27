@@ -1,12 +1,6 @@
 # CSI4107-Information Retrieval Course
 
-## Course Overview
-
-- **Course Name:** CSI4107 Information Retrieval 
-- **Institution:** University of Ottawa
-- **Term:** Winter-2023
-
-This repository contains materials for the Information Retrieval course (CSI4107) taught by Dr. Diana Inkpen at the University of Ottawa. The course covers the following topics:
+This repository contains materials for the Information Retrieval course (CSI4107) taught by Dr. Diana Inkpen at the University of Ottawa in winter 2023. The course covers the following topics:
 
 - Basic principles of Information Retrieval
 - Indexing methods
