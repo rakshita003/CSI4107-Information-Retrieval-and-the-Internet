@@ -21,7 +21,7 @@ The course website can be found at [https://www.site.uottawa.ca/~diana/csi4107/i
 This repository contains two assignments for the course. The assignments are:
 
 1. Assignment 1: Information Retrieval with Vector Space Model 
-2. Assignment 2: Neural information retrieval system using BERT and Query Expansion
+2. Assignment 2: Neural information retrieval system using Doc2vec and Query Expansion
 
 The assignments are designed to help students gain hands-on experience with implementing information retrieval algorithms and models.
 
