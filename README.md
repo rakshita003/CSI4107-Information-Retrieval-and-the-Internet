@@ -1,4 +1,4 @@
-# CSI4107-Information Retrieval Course
+# CSI4107-Information Retrieval CourseInformation Retrieval and the Internet
 
 This repository contains materials for the Information Retrieval course (CSI4107) taught by Dr. Diana Inkpen at the University of Ottawa in winter 2023. The course covers the following:
 
